@@ -1,12 +1,12 @@
-# mqcontrol
+# mqttcontrol
 
 ![Docker build](https://github.com/albertnis/mqcontrol/workflows/Docker%20build/badge.svg)
 
-mqcontrol is a lightweight and cross-platform utility which subscribes to an MQTT topic and executes a predefined command on your computer whenever a message appears. It's an easy way to make your PC part of your home automation or IoT system!
+mqttcontrol is a lightweight and cross-platform utility which subscribes to an MQTT topic and executes a predefined command on your computer whenever a message appears. It's an easy way to make your PC part of your home automation or IoT system!
 
 ## Installation
 
-See the [releases](https://github.com/albertnis/mqcontrol/releases) page and download a binary for your operating system and architecture.
+See the [releases](https://github.com/guowushi/mqcontrol/releases) page and download a binary for your operating system and architecture.
 
 Or install it with Go:
 
